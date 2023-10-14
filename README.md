@@ -104,7 +104,7 @@ The program will begin logging data according to the specified time window.
 
 ## Data Storage
 
-The program logs the stock data in a MongoDB database. You can access and query this data as needed for your analysis.
+The program logs the stock data in a MongoDB database.
 
 
 
