@@ -82,7 +82,7 @@ pip install yfinance pymongo apscheduler
 
 2. Make sure you have MongoDB installed and running locally. You can download and install MongoDB from the official website: https://www.mongodb.com/try/download/community
 
-3. Open the Python script `stock_data_logger.py` in your preferred code editor.
+3. Open the Python script `Task2.py` in your preferred code editor.
 
 4. Edit the script to match your specific requirements if needed. The script contains the ICICI Bank ticker symbol, time window, and MongoDB connection details.
 
